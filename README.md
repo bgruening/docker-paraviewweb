@@ -3,6 +3,9 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/bmcv/galaxy-paraviewweb.svg)](https://hub.docker.com/r/bmcv/galaxy-paraviewweb/) 
 [![Docker Stars](https://img.shields.io/docker/stars/bmcv/galaxy-paraviewweb.svg)](https://hub.docker.com/r/bmcv/galaxy-paraviewweb/) 
 
+> [!CAUTION]
+> This repo has been discontinued, see https://github.com/BMCV/docker-paraview instead.
+
 Docker ParaViewWeb Container
 ========================
 
